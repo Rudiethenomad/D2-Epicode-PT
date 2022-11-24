@@ -51,3 +51,23 @@ body{
     height: 220px;
 
 }
+.featured{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.item_1{
+    color:rgb(251, 166, 9);
+    font-size: xx-small;
+}
+.item_2{
+    color: rgb(13, 131, 131);
+    font-size: xx-small;
+    text-decoration: underline;
+
+}
+.ingredient_title{
+    display: flex;
+    justify-content: center;
+}
