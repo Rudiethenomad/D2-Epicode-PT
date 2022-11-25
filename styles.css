@@ -52,14 +52,16 @@ body{
 
 }
 .featured{
-    display: flex;
-    justify-content: center;
+   padding-left: 39vw; 
+   
+   
     
 
 }
 .item_1{
     color:rgb(251, 166, 9);
     font-size: xx-small;
+    
 }
 .item_2{
     color: rgb(13, 131, 131);
@@ -68,6 +70,32 @@ body{
 
 }
 .ingredient_title{
-    display: flex;
-    justify-content: center;
+   padding-left: 39vw;
+   border-bottom: 1px  color rgb(170, 168, 168);
+}
+.focaccia{
+   padding-left: 39vw;;
+    border: 5px  color rgb(170, 168, 168);
+}
+.topping{
+    padding-left: 39vw;
+
+}
+.method{
+    padding-left: 39vw;
+}
+.method_text{
+    padding-left: 39.5vw;
+}
+
+.text{
+    padding-left: 40.5vw;
+    padding-right:30vw
+}
+.redirect{
+    padding-left: 39vw;
+}
+span{
+    color:blue;
+    text-decoration: underline;
 }
