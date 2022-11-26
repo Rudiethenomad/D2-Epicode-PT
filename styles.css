@@ -82,6 +82,9 @@ body{
    font-weight: bold;
    border-bottom: 1px  color rgb(170, 168, 168);
 }
+.t_ingredients_list{
+    font-size: smaller;
+}
 .focaccia{
    padding-left: 39.89vw;;
     border: 5px  color rgb(170, 168, 168);
@@ -89,6 +92,9 @@ body{
 }
 .f_heading{
     font-weight: bold;
+}
+.f_ingredients{
+    font-size: smaller;
 }
 .topping{
     padding-left: 39.89vw;
@@ -107,13 +113,16 @@ body{
 
 .text{
     padding-left: 41vw;
-    padding-right:30vw
+    padding-right:30vw;
+    font-size:smaller;
 }
 .method_text{
     font-weight: bold;
+    
 }
 .redirect{
     padding-left: 39.89vw;
+    font-size: x-small;
 }
 span{
     color:blue;
