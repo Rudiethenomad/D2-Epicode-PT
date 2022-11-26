@@ -35,9 +35,9 @@ body{
 
     margin-bottom: 0;
 }
-.p_2{
+.t_p2{
+    padding-left: 2.3vw;
 
-    
 }
     
 
@@ -80,30 +80,30 @@ body{
 
 }
 .ingredient_title{
-   padding-left: 39vw;
+   padding-left: 39.89vw;
    border-bottom: 1px  color rgb(170, 168, 168);
 }
 .focaccia{
-   padding-left: 39vw;;
+   padding-left: 39.89vw;;
     border: 5px  color rgb(170, 168, 168);
 }
 .topping{
-    padding-left: 39vw;
+    padding-left: 39.89vw;
 
 }
 .method{
-    padding-left: 39vw;
+    padding-left: 39.89vw;
 }
 .method_text{
-    padding-left: 39.5vw;
+    padding-left: 39.89vw;
 }
 
 .text{
-    padding-left: 40.5vw;
+    padding-left: 41vw;
     padding-right:30vw
 }
 .redirect{
-    padding-left: 39vw;
+    padding-left: 39.89vw;
 }
 span{
     color:blue;
