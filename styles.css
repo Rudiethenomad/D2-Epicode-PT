@@ -14,7 +14,9 @@ body{
 }
 
 .tag_line{
-    margin-top: 0;
+    margin-top: 0px;
+    border-top: solid;
+    border-color: rgb(247, 245, 205);
     margin-left: 30vw;
     margin-right: 30vw;
     padding-top: 12px;
@@ -60,8 +62,10 @@ body{
 
 }
 .featured{
-   padding-left: 39vw; 
-   
+   padding-left: 38vw; 
+   border-left: solid;
+   border-color:rgb(250, 249, 229)
+ 
    
     
 
@@ -69,18 +73,25 @@ body{
 .item_1{
     color:rgb(251, 166, 9);
     font-size: xx-small;
+    list-style-type: none;
     
 }
 .item_2{
     color: rgb(13, 131, 131);
     font-size: xx-small;
     text-decoration: underline;
+    list-style-type: none;
+    
 
 }
 .ingredient_title{
-   padding-left: 39.89vw;
+    margin-left: 39.89vw;
+    margin-right: 32vw;
+   padding-left: 0vw;
    font-weight: bold;
-   border-bottom: 1px  color rgb(170, 168, 168);
+   border-width: 1px;
+   border-bottom: solid;
+   border-color: rgb(184, 225, 225);;
 }
 .t_ingredients_list{
     font-size: smaller;
