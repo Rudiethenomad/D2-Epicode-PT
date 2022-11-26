@@ -5,31 +5,41 @@ body{
 .logo{
     display: flex;
     justify-content: center;
+    padding-right: 4vw;
     height: 30px;
     border-top-color: rgb(6, 6, 3); 
-    border-bottom: 2px;
+    margin-bottom: 10px;
+    padding-top: 10px;
     padding-left: 20px;
 }
 
 .tag_line{
-    display: flex;
-    justify-content: center;
-    height: 20px;
+    margin-top: 0;
+    margin-left: 100px;
+    padding-left: 43.2vw;
+    padding-top: 12px;
+    width: 25vw;
+    height: 15px;
     font-size: 7px;
     background-color: rgb(250, 249, 229);
     color: rgb(2, 80, 2);
     align-items: center;
     border-top: 2px;
-    border-top-color: rgb(6, 6, 3); 
+    border-color: black;
     margin-left: 20px;
 }
 
 .title{
-    display: flex;
-    justify-content: center;
-    font-weight: bold;
+    
+    padding-left: 41.5vw;
 
+    margin-bottom: 0;
 }
+.p_2{
+
+    
+}
+    
 
 .wow_disc{
     display: flex;
