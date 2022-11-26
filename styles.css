@@ -27,7 +27,7 @@ body{
 }
 
 .title{
-    
+    font-weight: bold;
     padding-left: 41.5vw;
 
     margin-bottom: 0;
@@ -79,18 +79,27 @@ body{
 }
 .ingredient_title{
    padding-left: 39.89vw;
+   font-weight: bold;
    border-bottom: 1px  color rgb(170, 168, 168);
 }
 .focaccia{
    padding-left: 39.89vw;;
     border: 5px  color rgb(170, 168, 168);
+
+}
+.f_heading{
+    font-weight: bold;
 }
 .topping{
     padding-left: 39.89vw;
 
 }
+.t_ingredients{
+    font-weight: bold;
+}
 .method{
     padding-left: 39.89vw;
+    font-weight: bold;
 }
 .method_text{
     padding-left: 39.89vw;
@@ -99,6 +108,9 @@ body{
 .text{
     padding-left: 41vw;
     padding-right:30vw
+}
+.method_text{
+    font-weight: bold;
 }
 .redirect{
     padding-left: 39.89vw;
