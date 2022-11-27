@@ -22,9 +22,9 @@ body{
     padding-top: 12px;
    text-align: center;
     height: 15px;
-    font-size: 7px;
-    background-color: rgb(250, 249, 229);
-    color: rgb(2, 80, 2);
+    font-size: 7.3px;
+    background-color: rgb(250, 249, 229, .5);
+    color: rgb(2, 68, 68);
 
 }
 
@@ -65,13 +65,16 @@ body{
    margin-left: 39.89vw; 
    padding:0;
    border-left: solid;
-   border-color:rgb(10, 10, 7);
+   border-color: rgba(225, 224, 199, 0.5);
    
- 
    
     
 
 }
+.list_1{
+    padding-left: 6px;
+}
+
 .item_1{
     color:rgb(251, 166, 9);
     font-size: xx-small;
@@ -91,9 +94,9 @@ body{
     margin-right: 38.5vw;
    padding-left: 0vw;
    font-weight: bold;
-   border-width: 1px;
+   border-width: .5px;
    border-bottom: solid;
-   border-color: rgb(184, 225, 225);
+   border-color: rgba(184, 225, 225, .2);
 }
 .t_ingredients_list{
     font-size: smaller;
@@ -121,7 +124,7 @@ body{
     margin-right: 38.5vw;
     font-weight: bold;
     border-bottom: solid;
-   border-color: rgb(184, 225, 225);
+   border-color: rgba(184, 225, 225, .2);
 }
 .method_text{
     padding-left: 39.89vw;
