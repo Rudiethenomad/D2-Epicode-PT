@@ -94,7 +94,7 @@ body{
     margin-right: 38.5vw;
    padding-left: 0vw;
    font-weight: bold;
-   border-width: .5px;
+   border-width: .1px;
    border-bottom: solid;
    border-color: rgba(184, 225, 225, .2);
 }
@@ -144,6 +144,6 @@ body{
     font-size: x-small;
 }
 span{
-    color:blue;
+    color: rgb(13, 131, 131);
     text-decoration: underline;
 }
